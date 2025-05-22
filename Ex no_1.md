@@ -11,6 +11,7 @@ To write a program to initialize the value as 5.8 & display the same.
 5. End .
 
 ## Program:
+```
 #include<stdio.h> 
 int main() 
 { 
@@ -19,6 +20,7 @@ printf ("%.1f",a);
 return 0; 
  
 }
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/7bdbd101-c6b4-43db-8159-47eb49f1ce9d)
